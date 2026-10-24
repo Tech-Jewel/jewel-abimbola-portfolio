@@ -450,7 +450,7 @@ h1 em i {
 		grid-template-columns: 1fr;
 	}
 
-	/* .art {
+	.art {
     position: absolute;
 		z-index: 0;
 		right: -22vw;
@@ -459,14 +459,14 @@ h1 em i {
 		max-width: none;
 		opacity: 0.3;
 		animation: none;
-  } */
+  }
 
-	.art {
+	/* .art {
 		max-width: 280px;
 		justify-self: center;
 		order: -1;
 		margin-bottom: -12px;
-	}
+	} */
 
 	.hero .meta {
 		bottom: 84px;
